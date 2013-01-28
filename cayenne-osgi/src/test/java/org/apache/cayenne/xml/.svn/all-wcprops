@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/java/org/apache/cayenne/xml
+END
+XMLEncoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/java/org/apache/cayenne/xml/XMLEncoderTest.java
+END
+TestObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/java/org/apache/cayenne/xml/TestObject.java
+END
+XMLDecoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/java/org/apache/cayenne/xml/XMLDecoderTest.java
+END

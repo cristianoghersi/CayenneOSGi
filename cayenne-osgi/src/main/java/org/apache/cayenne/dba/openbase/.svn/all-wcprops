@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/dba/openbase
+END
+OpenBaseActionBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/dba/openbase/OpenBaseActionBuilder.java
+END
+OpenBaseJoinStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/dba/openbase/OpenBaseJoinStack.java
+END
+OpenBaseMergerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/dba/openbase/OpenBaseMergerFactory.java
+END
+OpenBaseSelectTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/dba/openbase/OpenBaseSelectTranslator.java
+END
+OpenBaseQualifierTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/dba/openbase/OpenBaseQualifierTranslator.java
+END
+OpenBaseSniffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/dba/openbase/OpenBaseSniffer.java
+END
+OpenBaseAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/dba/openbase/OpenBaseAdapter.java
+END
+OpenBasePkGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/dba/openbase/OpenBasePkGenerator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/dba/openbase/package.html
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/dba/hsqldb
+END
+HSQLDBProcedureTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/dba/hsqldb/HSQLDBProcedureTranslator.java
+END
+HSQLMergerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/dba/hsqldb/HSQLMergerFactory.java
+END
+HSQLSelectTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/dba/hsqldb/HSQLSelectTranslator.java
+END
+HSQLSelectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/dba/hsqldb/HSQLSelectAction.java
+END
+HSQLDBSniffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/dba/hsqldb/HSQLDBSniffer.java
+END
+HSQLActionBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/dba/hsqldb/HSQLActionBuilder.java
+END
+HSQLDBNoSchemaAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/dba/hsqldb/HSQLDBNoSchemaAdapter.java
+END
+HSQLDBAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/dba/hsqldb/HSQLDBAdapter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/dba/hsqldb/package.html
+END

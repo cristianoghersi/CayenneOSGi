@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/org/apache/cayenne/configuration/server
+END
+testDBCP.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/org/apache/cayenne/configuration/server/testDBCP.properties
+END
+testDBCP_legacy.properties
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/org/apache/cayenne/configuration/server/testDBCP_legacy.properties
+END

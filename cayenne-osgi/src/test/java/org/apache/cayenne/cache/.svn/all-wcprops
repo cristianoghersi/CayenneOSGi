@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/java/org/apache/cayenne/cache
+END
+MockQueryCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/java/org/apache/cayenne/cache/MockQueryCache.java
+END
+MapQueryCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/java/org/apache/cayenne/cache/MapQueryCacheTest.java
+END
+QueryCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/java/org/apache/cayenne/cache/QueryCacheTest.java
+END
+OSQueryCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/java/org/apache/cayenne/cache/OSQueryCacheTest.java
+END

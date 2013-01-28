@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/ddl/postgresql
+END
+create-update-sp.sql
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/ddl/postgresql/create-update-sp.sql
+END
+create-update-sp2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/ddl/postgresql/create-update-sp2.sql
+END
+create-out-sp.sql
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/ddl/postgresql/create-out-sp.sql
+END
+create-select-sp.sql
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/ddl/postgresql/create-select-sp.sql
+END

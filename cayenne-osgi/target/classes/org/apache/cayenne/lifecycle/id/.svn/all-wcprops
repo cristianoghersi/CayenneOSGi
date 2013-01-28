@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/main/java/org/apache/cayenne/lifecycle/id
+END
+EntityIdCoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/main/java/org/apache/cayenne/lifecycle/id/EntityIdCoder.java
+END
+IdCoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/main/java/org/apache/cayenne/lifecycle/id/IdCoder.java
+END
+StringIdQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/main/java/org/apache/cayenne/lifecycle/id/StringIdQuery.java
+END

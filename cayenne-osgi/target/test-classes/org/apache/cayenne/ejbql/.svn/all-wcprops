@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/java/org/apache/cayenne/ejbql
+END
+EJBQLParserFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/java/org/apache/cayenne/ejbql/EJBQLParserFactoryTest.java
+END
+EJBQLEnum1.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/java/org/apache/cayenne/ejbql/EJBQLEnum1.java
+END
+EJBQLCompiledExpressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/java/org/apache/cayenne/ejbql/EJBQLCompiledExpressionTest.java
+END
+EJBQLExpressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/java/org/apache/cayenne/ejbql/EJBQLExpressionTest.java
+END

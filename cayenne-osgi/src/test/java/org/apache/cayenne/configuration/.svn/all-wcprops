@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/java/org/apache/cayenne/configuration
+END
+DefaultRuntimePropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/java/org/apache/cayenne/configuration/DefaultRuntimePropertiesTest.java
+END
+CayenneRuntimeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/java/org/apache/cayenne/configuration/CayenneRuntimeTest.java
+END
+DefaultDataChannelDescriptorMergerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/java/org/apache/cayenne/configuration/DefaultDataChannelDescriptorMergerTest.java
+END
+XMLDataChannelDescriptorLoaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/java/org/apache/cayenne/configuration/XMLDataChannelDescriptorLoaderTest.java
+END

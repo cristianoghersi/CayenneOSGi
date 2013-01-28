@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/ddl/oracle
+END
+create-update-sp.sql
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/ddl/oracle/create-update-sp.sql
+END
+create-types-pkg.sql
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/ddl/oracle/create-types-pkg.sql
+END
+create-update-sp2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/ddl/oracle/create-update-sp2.sql
+END
+create-out-sp.sql
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/ddl/oracle/create-out-sp.sql
+END
+create-select-sp.sql
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/ddl/oracle/create-select-sp.sql
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/test/resources/org/apache/cayenne/project/upgrade/v6/3_0_0_1a
+END
+d1Map2.map.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/test/resources/org/apache/cayenne/project/upgrade/v6/3_0_0_1a/d1Map2.map.xml
+END
+d1NodeDriver.driver.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/test/resources/org/apache/cayenne/project/upgrade/v6/3_0_0_1a/d1NodeDriver.driver.xml
+END
+cayenne.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/test/resources/org/apache/cayenne/project/upgrade/v6/3_0_0_1a/cayenne.xml
+END
+d1Map1.map.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/test/resources/org/apache/cayenne/project/upgrade/v6/3_0_0_1a/d1Map1.map.xml
+END

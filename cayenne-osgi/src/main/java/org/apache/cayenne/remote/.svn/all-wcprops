@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1348888/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/remote
+END
+RemoteSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/remote/RemoteSession.java
+END
+SyncMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/remote/SyncMessage.java
+END
+BootstrapMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/remote/BootstrapMessage.java
+END
+RangeQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/remote/RangeQuery.java
+END
+ClientMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/remote/ClientMessage.java
+END
+RemoteIncrementalFaultList.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/remote/RemoteIncrementalFaultList.java
+END
+ClientChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1348888/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/remote/ClientChannel.java
+END
+IncrementalQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/remote/IncrementalQuery.java
+END
+IncrementalSelectQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/remote/IncrementalSelectQuery.java
+END
+QueryMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/remote/QueryMessage.java
+END
+BaseConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/remote/BaseConnection.java
+END
+RemoteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/remote/RemoteService.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/remote/package.html
+END
+ClientConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/remote/ClientConnection.java
+END

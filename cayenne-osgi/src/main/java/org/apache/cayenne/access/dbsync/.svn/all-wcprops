@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/access/dbsync
+END
+BaseSchemaUpdateStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/access/dbsync/BaseSchemaUpdateStrategy.java
+END
+ThrowOnPartialSchemaStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/access/dbsync/ThrowOnPartialSchemaStrategy.java
+END
+CreateIfNoSchemaStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/access/dbsync/CreateIfNoSchemaStrategy.java
+END
+SchemaAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/access/dbsync/SchemaAnalyzer.java
+END
+SchemaUpdateStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/access/dbsync/SchemaUpdateStrategy.java
+END
+ThrowOnPartialOrCreateSchemaStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/access/dbsync/ThrowOnPartialOrCreateSchemaStrategy.java
+END
+SkipSchemaUpdateStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/access/dbsync/SkipSchemaUpdateStrategy.java
+END

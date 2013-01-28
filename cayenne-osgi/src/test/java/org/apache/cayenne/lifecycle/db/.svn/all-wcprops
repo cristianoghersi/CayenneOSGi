@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/test/java/org/apache/cayenne/lifecycle/db
+END
+AuditableChild1.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/test/java/org/apache/cayenne/lifecycle/db/AuditableChild1.java
+END
+AuditableChild2.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/test/java/org/apache/cayenne/lifecycle/db/AuditableChild2.java
+END
+SortDep.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/test/java/org/apache/cayenne/lifecycle/db/SortDep.java
+END
+AuditableChild3.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/test/java/org/apache/cayenne/lifecycle/db/AuditableChild3.java
+END
+AuditableChildUuid.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/test/java/org/apache/cayenne/lifecycle/db/AuditableChildUuid.java
+END
+E1.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/test/java/org/apache/cayenne/lifecycle/db/E1.java
+END
+E2.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/test/java/org/apache/cayenne/lifecycle/db/E2.java
+END
+Auditable1.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/test/java/org/apache/cayenne/lifecycle/db/Auditable1.java
+END
+SortRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/test/java/org/apache/cayenne/lifecycle/db/SortRoot.java
+END
+UuidRoot1.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/test/java/org/apache/cayenne/lifecycle/db/UuidRoot1.java
+END
+Auditable2.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/test/java/org/apache/cayenne/lifecycle/db/Auditable2.java
+END
+LifecycleMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/test/java/org/apache/cayenne/lifecycle/db/LifecycleMap.java
+END

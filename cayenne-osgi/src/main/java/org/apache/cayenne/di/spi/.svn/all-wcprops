@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi
+END
+DefaultAdhocObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi/DefaultAdhocObjectFactory.java
+END
+NoScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi/NoScope.java
+END
+ScopeEventBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi/ScopeEventBinding.java
+END
+InjectionStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi/InjectionStack.java
+END
+DefaultBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi/DefaultBinder.java
+END
+Binding.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi/Binding.java
+END
+DefaultScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi/DefaultScope.java
+END
+InstanceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi/InstanceProvider.java
+END
+DefaultInjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi/DefaultInjector.java
+END
+AfterScopeEnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi/AfterScopeEnd.java
+END
+CustomProvidersProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi/CustomProvidersProvider.java
+END
+DefaultBindingBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi/DefaultBindingBuilder.java
+END
+ListProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi/ListProvider.java
+END
+DefaultListBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi/DefaultListBuilder.java
+END
+MapProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi/MapProvider.java
+END
+FieldInjectingProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi/FieldInjectingProvider.java
+END
+DefaultScopeProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi/DefaultScopeProvider.java
+END
+DefaultMapBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi/DefaultMapBuilder.java
+END
+DIUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi/DIUtil.java
+END
+ConstructorInjectingProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/di/spi/ConstructorInjectingProvider.java
+END

@@ -1,0 +1,101 @@
+10
+
+dir
+1383805
+http://svn.apache.org/repos/asf/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/main/resources/org/apache/cayenne/dba
+http://svn.apache.org/repos/asf
+
+
+
+2012-02-15T10:58:59.756676Z
+1244438
+oltka
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+sqlite
+dir
+
+frontbase
+dir
+
+types.xml
+file
+
+
+
+
+2012-09-12T06:56:29.000000Z
+f33a67b8a850692fdb4dfda321563f8c
+2006-09-19T20:39:22.444143Z
+447956
+aadamchik
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3248
+
+derby
+dir
+
+mysql
+dir
+
+oracle
+dir
+
+postgres
+dir
+
+sqlserver
+dir
+
+sybase
+dir
+
+db2
+dir
+
+ingres
+dir
+
+h2
+dir
+
+openbase
+dir
+
+hsqldb
+dir
+

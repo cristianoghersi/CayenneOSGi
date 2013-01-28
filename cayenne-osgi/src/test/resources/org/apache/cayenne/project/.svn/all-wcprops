@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/test/resources/org/apache/cayenne/project
+END
+testProjectMap1_1.map.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/test/resources/org/apache/cayenne/project/testProjectMap1_1.map.xml
+END
+testProjectMap1_2.map.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/test/resources/org/apache/cayenne/project/testProjectMap1_2.map.xml
+END
+testProjectMap2_1.map.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/test/resources/org/apache/cayenne/project/testProjectMap2_1.map.xml
+END
+testProjectMap2_2.map.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/test/resources/org/apache/cayenne/project/testProjectMap2_2.map.xml
+END
+cayenne-PROJECT1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/test/resources/org/apache/cayenne/project/cayenne-PROJECT1.xml
+END
+cayenne-PROJECT2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/test/resources/org/apache/cayenne/project/cayenne-PROJECT2.xml
+END

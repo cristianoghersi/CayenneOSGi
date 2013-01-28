@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/ddl/db2
+END
+drop-select-sp.sql
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/ddl/db2/drop-select-sp.sql
+END
+create-update-sp.sql
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/ddl/db2/create-update-sp.sql
+END
+drop-update-sp.sql
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/ddl/db2/drop-update-sp.sql
+END
+create-update-sp2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/ddl/db2/create-update-sp2.sql
+END
+drop-update-sp2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/ddl/db2/drop-update-sp2.sql
+END
+create-out-sp.sql
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/ddl/db2/create-out-sp.sql
+END
+drop-out-sp.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/ddl/db2/drop-out-sp.sql
+END
+create-select-sp.sql
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/resources/ddl/db2/create-select-sp.sql
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/upgrade/v6
+END
+XMLDataChannelDescriptorLoader_V3_0_0_1.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/upgrade/v6/XMLDataChannelDescriptorLoader_V3_0_0_1.java
+END
+UpgradeHandler_V6.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/upgrade/v6/UpgradeHandler_V6.java
+END
+XMLDataSourceInfoLoader_V3_0_0_1.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/upgrade/v6/XMLDataSourceInfoLoader_V3_0_0_1.java
+END
+XMLDataMapLoader_V3_0_0_1.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/upgrade/v6/XMLDataMapLoader_V3_0_0_1.java
+END
+ProjectUpgrader_V6.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/upgrade/v6/ProjectUpgrader_V6.java
+END

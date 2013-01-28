@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project
+END
+CayenneProjectModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/CayenneProjectModule.java
+END
+ConfigurationSourceSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/ConfigurationSourceSetter.java
+END
+DataChannelProjectLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/DataChannelProjectLoader.java
+END
+ConfigurationNodeParentGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/ConfigurationNodeParentGetter.java
+END
+ConfigurationSourceGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/ConfigurationSourceGetter.java
+END
+Project.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/Project.java
+END
+SaveableNodesGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/SaveableNodesGetter.java
+END
+DefaultConfigurationNodeParentGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/DefaultConfigurationNodeParentGetter.java
+END
+FileProjectSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/FileProjectSaver.java
+END
+ProjectSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/ProjectSaver.java
+END
+ConfigurationSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/ConfigurationSaver.java
+END
+ProjectLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/ProjectLoader.java
+END

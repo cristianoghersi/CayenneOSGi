@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/main/java/org/apache/cayenne/lifecycle/audit
+END
+AuditableFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/main/java/org/apache/cayenne/lifecycle/audit/AuditableFilter.java
+END
+AuditableEntityDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/main/java/org/apache/cayenne/lifecycle/audit/AuditableEntityDescriptor.java
+END
+Auditable.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/main/java/org/apache/cayenne/lifecycle/audit/Auditable.java
+END
+AuditableProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/main/java/org/apache/cayenne/lifecycle/audit/AuditableProcessor.java
+END
+AuditableOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/main/java/org/apache/cayenne/lifecycle/audit/AuditableOperation.java
+END
+AuditableAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/main/java/org/apache/cayenne/lifecycle/audit/AuditableAggregator.java
+END
+AuditableChild.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-lifecycle/src/main/java/org/apache/cayenne/lifecycle/audit/AuditableChild.java
+END

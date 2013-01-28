@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation
+END
+ProcedureParameterValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/ProcedureParameterValidator.java
+END
+SQLTemplateValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/SQLTemplateValidator.java
+END
+ObjRelationshipValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/ObjRelationshipValidator.java
+END
+ObjAttributeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/ObjAttributeValidator.java
+END
+DataChannelValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/DataChannelValidator.java
+END
+EmbeddableValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/EmbeddableValidator.java
+END
+SelectQueryValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/SelectQueryValidator.java
+END
+ProjectValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/ProjectValidator.java
+END
+ObjEntityValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/ObjEntityValidator.java
+END
+DbRelationshipValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/DbRelationshipValidator.java
+END
+DataMapValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/DataMapValidator.java
+END
+DbAttributeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/DbAttributeValidator.java
+END
+DefaultProjectValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/DefaultProjectValidator.java
+END
+ConfigurationNodeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/ConfigurationNodeValidator.java
+END
+ProcedureQueryValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/ProcedureQueryValidator.java
+END
+DataNodeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/DataNodeValidator.java
+END
+EJBQLStatementValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/EJBQLStatementValidator.java
+END
+DbEntityValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/DbEntityValidator.java
+END
+EJBQLQueryValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/EJBQLQueryValidator.java
+END
+NameValidationHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/NameValidationHelper.java
+END
+EmbeddableAttributeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/EmbeddableAttributeValidator.java
+END
+ProcedureValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-project/src/main/java/org/apache/cayenne/project/validation/ProcedureValidator.java
+END

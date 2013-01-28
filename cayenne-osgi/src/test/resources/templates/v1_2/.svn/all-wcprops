@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/resources/templates/v1_2
+END
+client-superclass.vm
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/resources/templates/v1_2/client-superclass.vm
+END
+client-datamap-subclass.vm
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/resources/templates/v1_2/client-datamap-subclass.vm
+END
+client-datamap-superclass.vm
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/resources/templates/v1_2/client-datamap-superclass.vm
+END
+singleclass.vm
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/resources/templates/v1_2/singleclass.vm
+END
+embeddable-singleclass.vm
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/resources/templates/v1_2/embeddable-singleclass.vm
+END
+datamap-singleclass.vm
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/resources/templates/v1_2/datamap-singleclass.vm
+END
+subclass.vm
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/resources/templates/v1_2/subclass.vm
+END
+embeddable-subclass.vm
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/resources/templates/v1_2/embeddable-subclass.vm
+END
+superclass.vm
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/resources/templates/v1_2/superclass.vm
+END
+datamap-subclass.vm
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/resources/templates/v1_2/datamap-subclass.vm
+END
+embeddable-superclass.vm
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/resources/templates/v1_2/embeddable-superclass.vm
+END
+client-datamap-singleclass.vm
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/resources/templates/v1_2/client-datamap-singleclass.vm
+END
+light-superclass.vm
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/resources/templates/v1_2/light-superclass.vm
+END
+datamap-superclass.vm
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/resources/templates/v1_2/datamap-superclass.vm
+END
+client-subclass.vm
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/resources/templates/v1_2/client-subclass.vm
+END

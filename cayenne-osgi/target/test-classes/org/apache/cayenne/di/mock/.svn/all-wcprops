@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock
+END
+MockImplementation1_EventAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation1_EventAnnotations.java
+END
+MockInterface5.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockInterface5.java
+END
+MockImplementation2_ConstructorProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation2_ConstructorProvider.java
+END
+MockImplementation1_DepOn2Provider.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation1_DepOn2Provider.java
+END
+MockImplementation1_ListConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation1_ListConfiguration.java
+END
+MockImplementation1Alt2.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation1Alt2.java
+END
+MockImplementation1_MapConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation1_MapConfiguration.java
+END
+MockImplementation4Alt2.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation4Alt2.java
+END
+MockInterface1Provider.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockInterface1Provider.java
+END
+MockImplementation1_WithInjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation1_WithInjector.java
+END
+MockImplementation2_I3Dependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation2_I3Dependency.java
+END
+MockImplementation2Sub1.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation2Sub1.java
+END
+MockImplementation1.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation1.java
+END
+MockImplementation2.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation2.java
+END
+MockImplementation1Alt.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation1Alt.java
+END
+MockImplementation3.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation3.java
+END
+MockImplementation4.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation4.java
+END
+MockImplementation4Alt.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation4Alt.java
+END
+MockImplementation5.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation5.java
+END
+MockImplementation2_Named.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation2_Named.java
+END
+MockImplementation2_Constructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation2_Constructor.java
+END
+MockImplementation1_DepOn2.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation1_DepOn2.java
+END
+MockImplementation1_Provider.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation1_Provider.java
+END
+MockImplementation1_EventAnnotationsBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation1_EventAnnotationsBase.java
+END
+MockInterface1.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockInterface1.java
+END
+MockInterface2.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockInterface2.java
+END
+MockImplementation1_DepOn2Constructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockImplementation1_DepOn2Constructor.java
+END
+MockInterface3.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockInterface3.java
+END
+MockInterface4.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-di-unpublished/src/test/java/org/apache/cayenne/di/mock/MockInterface4.java
+END

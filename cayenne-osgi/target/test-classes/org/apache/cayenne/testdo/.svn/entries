@@ -1,0 +1,73 @@
+10
+
+dir
+1383805
+http://svn.apache.org/repos/asf/cayenne/main/branches/STABLE-3.1/framework/cayenne-jdk1.5-unpublished/src/test/java/org/apache/cayenne/testdo
+http://svn.apache.org/repos/asf
+
+
+
+2012-05-18T01:44:02.471325Z
+1339949
+amaniatis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+mt
+dir
+
+locking
+dir
+
+inheritance
+dir
+
+quotemap
+dir
+
+inheritance_flat
+dir
+
+persistent
+dir
+
+relationship
+dir
+
+inherit
+dir
+
+qualified
+dir
+
+embeddable
+dir
+
+db1
+dir
+
+db2
+dir
+
+horizontalinherit
+dir
+
+generic
+dir
+
+testmap
+dir
+

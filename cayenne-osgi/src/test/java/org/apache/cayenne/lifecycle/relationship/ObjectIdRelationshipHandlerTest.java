@@ -1,0 +1,139 @@
+/*****************************************************************
+ *   Licensed to the Apache Software Foundation (ASF) under one
+ *  or more contributor license agreements.  See the NOTICE file
+ *  distributed with this work for additional information
+ *  regarding copyright ownership.  The ASF licenses this file
+ *  to you under the Apache License, Version 2.0 (the
+ *  "License"); you may not use this file except in compliance
+ *  with the License.  You may obtain a copy of the License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ *  Unless required by applicable law or agreed to in writing,
+ *  software distributed under the License is distributed on an
+ *  "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ *  KIND, either express or implied.  See the License for the
+ *  specific language governing permissions and limitations
+ *  under the License.
+ ****************************************************************/
+package org.apache.cayenne.lifecycle.relationship;
+
+import junit.framework.TestCase;
+
+import org.apache.cayenne.Cayenne;
+import org.apache.cayenne.ObjectContext;
+import org.apache.cayenne.configuration.server.ServerRuntime;
+import org.apache.cayenne.lifecycle.db.E1;
+import org.apache.cayenne.lifecycle.db.UuidRoot1;
+import org.apache.cayenne.lifecycle.id.IdCoder;
+import org.apache.cayenne.query.SelectQuery;
+import org.apache.cayenne.test.jdbc.DBHelper;
+import org.apache.cayenne.test.jdbc.TableHelper;
+
+public class ObjectIdRelationshipHandlerTest extends TestCase {
+
+    private ServerRuntime runtime;
+
+    private TableHelper rootTable;
+    private TableHelper e1Table;
+
+    @Override
+    protected void setUp() throws Exception {
+        runtime = new ServerRuntime("cayenne-lifecycle.xml");
+
+        // a filter is required to invalidate root objects after commit
+        ObjectIdRelationshipFilter filter = new ObjectIdRelationshipFilter();
+        runtime.getDataDomain().addFilter(filter);
+        runtime.getDataDomain().getEntityResolver().getCallbackRegistry().addListener(
+                filter);
+
+        DBHelper dbHelper = new DBHelper(runtime.getDataSource(null));
+
+        rootTable = new TableHelper(dbHelper, "UUID_ROOT1").setColumns("ID", "UUID");
+        rootTable.deleteAll();
+
+        e1Table = new TableHelper(dbHelper, "E1").setColumns("ID");
+        e1Table.deleteAll();
+    }
+
+    @Override
+    protected void tearDown() throws Exception {
+        runtime.shutdown();
+    }
+
+    public void testRelate_Existing() throws Exception {
+
+        e1Table.insert(1);
+
+        ObjectContext context = runtime.getContext();
+        E1 e1 = (E1) Cayenne.objectForQuery(context, new SelectQuery(E1.class));
+
+        UuidRoot1 r1 = context.newObject(UuidRoot1.class);
+
+        IdCoder refHandler = new IdCoder(context
+                .getEntityResolver());
+        ObjectIdRelationshipHandler handler = new ObjectIdRelationshipHandler(refHandler);
+        handler.relate(r1, e1);
+
+        assertEquals("E1:1", r1.getUuid());
+        assertSame(e1, r1.readPropertyDirectly("cay:related:uuid"));
+
+        context.commitChanges();
+
+        Object[] r1x = rootTable.select();
+        assertEquals("E1:1", r1x[1]);
+    }
+
+    public void testRelate_New() throws Exception {
+
+        ObjectContext context = runtime.getContext();
+        E1 e1 = context.newObject(E1.class);
+
+        UuidRoot1 r1 = context.newObject(UuidRoot1.class);
+
+        IdCoder refHandler = new IdCoder(context
+                .getEntityResolver());
+        ObjectIdRelationshipHandler handler = new ObjectIdRelationshipHandler(refHandler);
+        handler.relate(r1, e1);
+
+        assertSame(e1, r1.readPropertyDirectly("cay:related:uuid"));
+
+        context.commitChanges();
+
+        int id = Cayenne.intPKForObject(e1);
+
+        Object[] r1x = rootTable.select();
+        assertEquals("E1:" + id, r1x[1]);
+        assertEquals("E1:" + id, r1.getUuid());
+    }
+
+    public void testRelate_Change() throws Exception {
+
+        e1Table.insert(1);
+        rootTable.insert(1, "E1:1");
+
+        ObjectContext context = runtime.getContext();
+
+        UuidRoot1 r1 = Cayenne.objectForPK(context, UuidRoot1.class, 1);
+        assertEquals("E1:1", r1.getUuid());
+
+        E1 e1 = context.newObject(E1.class);
+
+        IdCoder refHandler = new IdCoder(context
+                .getEntityResolver());
+        ObjectIdRelationshipHandler handler = new ObjectIdRelationshipHandler(refHandler);
+        handler.relate(r1, e1);
+
+        assertSame(e1, r1.readPropertyDirectly("cay:related:uuid"));
+
+        context.commitChanges();
+
+        int id = Cayenne.intPKForObject(e1);
+        assertFalse(1 == id);
+
+        Object[] r1x = rootTable.select();
+        assertEquals("E1:" + id, r1x[1]);
+        assertEquals("E1:" + id, r1.getUuid());
+        assertSame(e1, r1.readProperty("cay:related:uuid"));
+    }
+}

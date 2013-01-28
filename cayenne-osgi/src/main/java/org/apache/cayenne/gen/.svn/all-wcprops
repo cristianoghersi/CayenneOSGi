@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/java/org/apache/cayenne/gen
+END
+ArtifactsGenerationMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/java/org/apache/cayenne/gen/ArtifactsGenerationMode.java
+END
+ClassGeneratorResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/java/org/apache/cayenne/gen/ClassGeneratorResourceLoader.java
+END
+TemplateType.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/java/org/apache/cayenne/gen/TemplateType.java
+END
+ClientClassGenerationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/java/org/apache/cayenne/gen/ClientClassGenerationAction.java
+END
+ArtifactGenerationMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/java/org/apache/cayenne/gen/ArtifactGenerationMode.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/java/org/apache/cayenne/gen/package.html
+END
+ClassGenerationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/java/org/apache/cayenne/gen/ClassGenerationAction.java
+END
+EmbeddableArtifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/java/org/apache/cayenne/gen/EmbeddableArtifact.java
+END
+ClientDataMapArtifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/java/org/apache/cayenne/gen/ClientDataMapArtifact.java
+END
+DataMapArtifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/java/org/apache/cayenne/gen/DataMapArtifact.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/java/org/apache/cayenne/gen/StringUtils.java
+END
+DataMapUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/java/org/apache/cayenne/gen/DataMapUtils.java
+END
+ClientEntityArtifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/java/org/apache/cayenne/gen/ClientEntityArtifact.java
+END
+EntityArtifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/java/org/apache/cayenne/gen/EntityArtifact.java
+END
+ImportUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/java/org/apache/cayenne/gen/ImportUtils.java
+END
+EntityUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/java/org/apache/cayenne/gen/EntityUtils.java
+END
+Artifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1343403/cayenne/main/branches/STABLE-3.1/framework/cayenne-tools/src/main/java/org/apache/cayenne/gen/Artifact.java
+END

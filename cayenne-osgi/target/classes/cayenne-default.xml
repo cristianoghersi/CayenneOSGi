@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<domain project-version="6">
+	<map name="embeddable"/>
+	<map name="generic"/>
+	<map name="qualified"/>
+	<map name="sus-map"/>
+</domain>
+
